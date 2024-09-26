@@ -1,0 +1,10 @@
+{
+  "id": 55278038,
+  "created_at": "2024-09-25T19:01:33.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["AquaBEHER", "AquaBEHER2"]
+}
